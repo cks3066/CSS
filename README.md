@@ -1,1 +1,1 @@
-# CSS
+# CSS, SCC 연습
