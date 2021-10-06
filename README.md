@@ -1,1 +1,1 @@
-# CSS, SCC Practice
+# CSS Practice
